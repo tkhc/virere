@@ -27,7 +27,7 @@ export default class App extends Component {
       <main className="app">
         <Navbar></Navbar>
         <h1 className="title">
-          {this.state.summary ? "Your order: " : "Select as many as courses you would like:"}
+          {this.state.summary ? "Your order: " : "AYCE | $50 per person"}
         </h1>
         <Steps
           {...this.state}
