@@ -1,6 +1,6 @@
 # virere
 
-## A fictional all you can eat food truct
+## A fictional all you can eat food truck
 
 This site was built with:
 - React
